@@ -20,3 +20,11 @@ Within this notebook, different neuralnetworks were created, fine-tuning the var
 Notebook: MNIST_training_on_noisyImg.ipynb
 
 Within this notebook, a Neural Network was trained on noisy images from the MNIST database to reduce overfitting. 
+
+### Week 4
+
+Notebooks: MNIST_CNN.ipynb , Autoencoder.ipynb
+
+Within these two notebooks, I will:
+  - Build a CNN for MNIST digit recognition, first with only one convolutional layer, and then with as many as needed.
+  - Build an autoencoder for a circle image, first with a 9-nodes bottleneck, and then with a 3-nodes bottleneck. 

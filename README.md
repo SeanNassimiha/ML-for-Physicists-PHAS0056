@@ -28,3 +28,9 @@ Notebooks: MNIST_CNN.ipynb , Autoencoder.ipynb
 Within these two notebooks, I will:
   - Build a CNN for MNIST digit recognition, first with only one convolutional layer, and then with as many as needed.
   - Build an autoencoder for a circle image, first with a 9-nodes bottleneck, and then with a 3-nodes bottleneck. 
+
+### Week 5
+
+Notebook: PCA_and_MNIST.ipynp
+
+Within this notebook, different neural network were train on the MNIST dataset, each created using N PCA components, and were then evaluated on the test_set over an array of different PCA components. 

@@ -34,4 +34,4 @@ Within these two notebooks, I will:
 
 [Notebook](https://github.com/SeanNassimiha/ML-for-Physicists-PHAS0056/blob/main/PCA_and_MNIST.ipynb)
 
-Within this notebook, different neural network were train on the MNIST dataset, each created using N PCA components, and were then evaluated on the test_set over an array of different PCA components. 
+Within this notebook, different neural network were trained on the MNIST dataset, each created using N PCA components, and were then evaluated on the test_set over an array of different PCA components. 
